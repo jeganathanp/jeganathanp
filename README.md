@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BigData
 - 💞️ I’m looking to collaborate on BigData Learning
 - 📫 How to reach me 
-        - https://www.linkedin.com/in/jeganathan-palanisamy-988211b/
+        -- https://www.linkedin.com/in/jeganathan-palanisamy-988211b/
 
 <!---
 jeganathanp/jeganathanp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
